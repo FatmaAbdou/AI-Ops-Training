@@ -1,0 +1,2 @@
+Hello, this is a new file on Branch2.
+Edit file b.txt
