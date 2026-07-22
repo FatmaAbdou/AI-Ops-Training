@@ -1,0 +1,1 @@
+Creating a new file b.txt and editing a.txt
