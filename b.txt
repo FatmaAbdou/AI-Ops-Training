@@ -1,1 +1,2 @@
 Creating a new file b.txt and editing a.txt
+Editing the same line on the main branch.
